@@ -7,6 +7,9 @@ Los datos se extrajeron del sitio UCI utilizando el [Raisin Dataset](https://arc
 **Portafolio de implementación: Uso de framework para la implementación de una solución**  
 El entregable para esta actividad se encuentra en la carpeta *Uso de Framework*.
 
+**Portafolio de análisis: Análisis y Reporte sobre el desempeño del modelo**  
+El modelo mejorado y reporte del mismo se encuentran en la carpeta *Analisis y mejora*.
+
 **Consideraciones**
 * Tener tanto el archivo .py como el dataset en la misma carpeta
 * Actualizar la librería pandas para la lectura de archivos, pues el dataset es un excel
