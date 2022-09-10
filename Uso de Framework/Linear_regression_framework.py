@@ -1,5 +1,5 @@
 '''
-  Algoritmo de regresion lineal com SciKit-Learn 
+  Algoritmo de regresión lineal con SciKit-Learn 
   Enrique Santos Fraire - A01705746
   09/09/2022
 '''
