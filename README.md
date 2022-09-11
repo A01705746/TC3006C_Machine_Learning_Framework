@@ -8,7 +8,8 @@ Los datos se extrajeron del sitio UCI utilizando el [Raisin Dataset](https://arc
 El entregable para esta actividad se encuentra en la carpeta *Uso de Framework*.
 
 **Portafolio de análisis: Análisis y Reporte sobre el desempeño del modelo**  
-El modelo mejorado y reporte del mismo se encuentran en la carpeta *Analisis y mejora*.
+El modelo mejorado y reporte del mismo se encuentran en la carpeta *Analisis y mejora*.  
+Se cuenta con el código en Python para correr directamente y comparar los resultados de los modelos fácilmente, así como el Jupyter Notebook para evaluar el proceso de mejora paso a paso.
 
 **Consideraciones**
 * Tener tanto el archivo .py como el dataset en la misma carpeta
